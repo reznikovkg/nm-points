@@ -1,5 +1,5 @@
-# nm-ipN
-Numerical methods - Interpolation polynomial Newton
+# nm-points
+Numerical methods - Points (decart system)
 
 Last version: v0.1 (alpha)
-Date: 16.03.2018
+Date: 21.03.2018
