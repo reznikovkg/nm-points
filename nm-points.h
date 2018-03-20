@@ -12,5 +12,6 @@
 #define NM_POINTS_H
 
 #include "include/nm-points-class.h"
+#include "include/nm-points-of-function.h"
 
 #endif NM_POINTS_H

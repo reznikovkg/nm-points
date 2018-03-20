@@ -20,9 +20,9 @@ public:
 	nm_Points() : nm_Array() {}
 	nm_Points(int pN) : nm_Array(2, pN) {};
 
-	double getX(int i) { return getIPNA(0, i - 1); } void setX(int i, double k) { setIPNA(0, i - 1,k); }
-	double getY(int i) { return getIPNA(1, i - 1); } void setY(int i, double k) { setIPNA(1, i - 1, k); }
-	int getN() { return getJA(); }
+	double getX(int i) { return getNMA(0, i - 1); } void setX(int i, double k) { setNMA(0, i - 1, k); }
+	double getY(int i) { return getNMA(1, i - 1); } void setY(int i, double k) { setNMA(1, i - 1, k); }
+	int getN() { return getjA(); }
 
 	~nm_Points() {}
 };
