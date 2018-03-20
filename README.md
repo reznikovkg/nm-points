@@ -1,31 +1,31 @@
-# nm-points
+# Numerical methods - Points (decart system)
 
-Numerical methods - Points (decart system)
-
-Last version: **v0.1** (alpha)
+Last version: **v0.1** *(alpha)*
 
 Date: **21.03.2018**
 
 ## Install
 
-1) Git clone in your folder of the project
-```
+1) **Git clone** in your folder of the project
+```git
 git clone https://github.com/reznikovkg/nm-points.git
 ```
 
-2) Include **nm-points**
-```
+2) **Include** nm-points
+```cpp
 #include "nm-points/nm-points.h"
 ```
-Example including
-```
+*Example including*
+```cpp
 #include "stdafx.h"
 /* ... */
 #include "nm-points/nm-points.h"
 /* ... */
 void main() {
-	//you code
+/* ... */
 }
 ```
 
 3) Done!
+
+## Documentation
