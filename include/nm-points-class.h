@@ -6,7 +6,7 @@
 	Email: kosrez1@yandex.ru
 
 	File: include/nm-points-class.h
-	GitHub Repository: https://github.com/reznikovkg/nm-ipN
+	GitHub Repository: https://github.com/reznikovkg/nm-points
 */
 
 #define NM_POINTS_CLASS_H
