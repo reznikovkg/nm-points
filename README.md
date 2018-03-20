@@ -15,8 +15,9 @@ git clone https://github.com/reznikovkg/nm-points.git
 ```cpp
 #include "nm-points/nm-points.h"
 ```
-*Example including*
+
 ```cpp
+/* Example including */
 #include "stdafx.h"
 /* ... */
 #include "nm-points/nm-points.h"
@@ -26,6 +27,6 @@ void main() {
 }
 ```
 
-3) Done!
+3) **Done**
 
 ## Documentation
