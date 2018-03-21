@@ -53,6 +53,7 @@ public:
 	double getN() { return this->n; } void setN(int fn) { n = fn; }
 
 	nm_Points getPoints() { return this->points; }
+
 	void setPoints() {
 		for (int i = 1; i <= points.getN(); i++) {
 			points.setX(i, a + h * (i - 1));
